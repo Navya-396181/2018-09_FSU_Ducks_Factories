@@ -1,7 +1,7 @@
 /**
  * Class: Object-Oriented Design and Analysis
  * Professor: Orlando Montalvo
- * Assignment: HW 11
+ * Assignment: HW 12
  * Date: 2018-11-28
  */
 

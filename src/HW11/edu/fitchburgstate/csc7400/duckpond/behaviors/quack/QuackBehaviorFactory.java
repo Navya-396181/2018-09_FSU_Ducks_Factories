@@ -1,7 +1,7 @@
 /**
  * Class: Object-Oriented Design and Analysis
  * Professor: Orlando Montalvo
- * Assignment: HW 11
+ * Assignment: HW 12
  * Date: 2018-11-28
  */
 
@@ -20,7 +20,7 @@ public class QuackBehaviorFactory {
 	 * @return QuackBehavior instance
 	 */
 	
-	@SuppressWarnings("unused")
+	
 	public static QuackBehavior quackBehavior (QuackType type) {
 		QuackBehavior quackbehavior;
 		if(type!=null)
